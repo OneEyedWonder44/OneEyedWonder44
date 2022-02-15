@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sloane!
-- 👀 I’m interested in video game development.
+- 👀 I’m interested in software development with an interest in video game development.
 - 🌱 I’m currently learning Software Development at Southern New Hampshire University. 
 - 📫 How to reach me: sloanehagen@gmail.com or @OneEyedWonder44 on Twitter.
 
