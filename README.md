@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sloane!
-- 👀 I’m interested in software development with an interest in video game development.
-- 🌱 I’m currently learning Software Development at Southern New Hampshire University. 
-- 📫 How to reach me: sloanehagen@gmail.com or @OneEyedWonder44 on Twitter.
+- 👀 I’m pursuing a degree in Software Development at Southern New Hampshire University. 
+- 📫 How to reach me: sloanehagen@gmail.com or sloanehagen.com
 
 <!---
 OneEyedWonder44/OneEyedWonder44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
